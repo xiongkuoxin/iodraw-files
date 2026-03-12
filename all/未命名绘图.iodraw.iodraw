@@ -20,10 +20,10 @@
           <mxGeometry x="377" y="187" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="cTVnr0bxFcRuHzFW3cgf-6" value="JumpServer Web界面" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="75" y="359" width="211" height="49" as="geometry" />
+          <mxGeometry x="75" y="359" width="155" height="49" as="geometry" />
         </mxCell>
         <mxCell id="cTVnr0bxFcRuHzFW3cgf-7" value="JumpServer SSH代理" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="336" y="359" width="194" height="49" as="geometry" />
+          <mxGeometry x="250" y="359" width="194" height="49" as="geometry" />
         </mxCell>
         <mxCell id="cTVnr0bxFcRuHzFW3cgf-8" value="Tailscale客户端(100.64.0.1)" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="593" y="359" width="187" height="49" as="geometry" />
