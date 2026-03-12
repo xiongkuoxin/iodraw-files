@@ -1,50 +1,50 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="3bYDXuK3ibgXTe4-sEFk">
-    <mxGraphModel dx="1554" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2590" dy="1355" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="cTVnr0bxFcRuHzFW3cgf-1" value="多机房内网" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="565" y="496" width="500" height="361" as="geometry" />
+          <mxGeometry x="40" y="520" width="500" height="361" as="geometry" />
         </mxCell>
         <mxCell id="cTVnr0bxFcRuHzFW3cgf-2" value="阿里云服务器" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="340" y="324" width="1046" height="99" as="geometry" />
+          <mxGeometry x="40" y="334" width="1046" height="99" as="geometry" />
         </mxCell>
         <mxCell id="cTVnr0bxFcRuHzFW3cgf-3" value="用户访问" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="441" y="30" width="602" height="221" as="geometry" />
+          <mxGeometry x="141" y="40" width="602" height="221" as="geometry" />
         </mxCell>
         <mxCell id="cTVnr0bxFcRuHzFW3cgf-4" value="外网用户" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="678" y="55" width="124" height="49" as="geometry" />
+          <mxGeometry x="378" y="65" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="cTVnr0bxFcRuHzFW3cgf-5" value="阿里云服务器" style="rounded=1;arcSize=20;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="677" y="177" width="126" height="49" as="geometry" />
+          <mxGeometry x="377" y="187" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="cTVnr0bxFcRuHzFW3cgf-6" value="JumpServer Web界面" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="375" y="349" width="211" height="49" as="geometry" />
+          <mxGeometry x="75" y="359" width="211" height="49" as="geometry" />
         </mxCell>
         <mxCell id="cTVnr0bxFcRuHzFW3cgf-7" value="JumpServer SSH代理" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="636" y="349" width="207" height="49" as="geometry" />
+          <mxGeometry x="336" y="359" width="207" height="49" as="geometry" />
         </mxCell>
         <mxCell id="cTVnr0bxFcRuHzFW3cgf-8" value="Tailscale客户端(100.64.0.1)" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="893" y="349" width="258" height="49" as="geometry" />
+          <mxGeometry x="593" y="359" width="258" height="49" as="geometry" />
         </mxCell>
         <mxCell id="cTVnr0bxFcRuHzFW3cgf-9" value="Tailscale客户端(100.64.0.2)" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="664" y="521" width="258" height="49" as="geometry" />
+          <mxGeometry x="139" y="545" width="258" height="49" as="geometry" />
         </mxCell>
         <mxCell id="cTVnr0bxFcRuHzFW3cgf-10" value="Web服务器(192.168.1.100)" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="776" y="643" width="253" height="49" as="geometry" />
+          <mxGeometry x="251" y="667" width="253" height="49" as="geometry" />
         </mxCell>
         <mxCell id="cTVnr0bxFcRuHzFW3cgf-11" value="数据库服务器(192.168.1.101)" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="666" y="765" width="256" height="67" as="geometry" />
+          <mxGeometry x="141" y="789" width="256" height="67" as="geometry" />
         </mxCell>
         <mxCell id="cTVnr0bxFcRuHzFW3cgf-12" value="Tailscale客户端(100.64.0.3)" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1165" y="521" width="258" height="49" as="geometry" />
+          <mxGeometry x="640" y="545" width="258" height="49" as="geometry" />
         </mxCell>
         <mxCell id="cTVnr0bxFcRuHzFW3cgf-13" value="Web服务器(192.168.1.100)" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1276" y="643" width="253" height="49" as="geometry" />
+          <mxGeometry x="751" y="667" width="253" height="49" as="geometry" />
         </mxCell>
         <mxCell id="cTVnr0bxFcRuHzFW3cgf-14" value="数据库服务器(192.168.1.101)" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1166" y="765" width="256" height="67" as="geometry" />
+          <mxGeometry x="641" y="789" width="256" height="67" as="geometry" />
         </mxCell>
         <mxCell id="cTVnr0bxFcRuHzFW3cgf-15" value="公网访问" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="cTVnr0bxFcRuHzFW3cgf-4" target="cTVnr0bxFcRuHzFW3cgf-5">
           <mxGeometry relative="1" as="geometry">
@@ -54,7 +54,7 @@
         <mxCell id="cTVnr0bxFcRuHzFW3cgf-16" value="HTTPS(80)" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.75;entryX=0.5;entryY=0;rounded=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="cTVnr0bxFcRuHzFW3cgf-5" target="cTVnr0bxFcRuHzFW3cgf-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="481" y="251" />
+              <mxPoint x="181" y="261" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -66,65 +66,65 @@
         <mxCell id="cTVnr0bxFcRuHzFW3cgf-18" value="Tailscale VPN" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.73;entryX=0.5;entryY=0;rounded=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="cTVnr0bxFcRuHzFW3cgf-5" target="cTVnr0bxFcRuHzFW3cgf-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1022" y="251" />
+              <mxPoint x="722" y="261" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="cTVnr0bxFcRuHzFW3cgf-19" value="via 4via6 route" style="curved=1;startArrow=none;endArrow=block;exitX=0.67;exitY=1;entryX=0.5;entryY=0;rounded=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="cTVnr0bxFcRuHzFW3cgf-9" target="cTVnr0bxFcRuHzFW3cgf-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="902" y="607" />
+              <mxPoint x="377" y="631" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="cTVnr0bxFcRuHzFW3cgf-20" value="via 4via6 route" style="curved=1;startArrow=none;endArrow=block;exitX=0.33;exitY=1;entryX=0.3;entryY=0;rounded=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="cTVnr0bxFcRuHzFW3cgf-9" target="cTVnr0bxFcRuHzFW3cgf-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="685" y="607" />
-              <mxPoint x="685" y="729" />
+              <mxPoint x="160" y="631" />
+              <mxPoint x="160" y="753" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="cTVnr0bxFcRuHzFW3cgf-21" value="物理内网" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.7;entryY=0;rounded=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="cTVnr0bxFcRuHzFW3cgf-10" target="cTVnr0bxFcRuHzFW3cgf-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="902" y="729" />
+              <mxPoint x="377" y="753" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="cTVnr0bxFcRuHzFW3cgf-22" value="via 4via6 route" style="curved=1;startArrow=none;endArrow=block;exitX=0.67;exitY=1;entryX=0.5;entryY=0;rounded=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="cTVnr0bxFcRuHzFW3cgf-12" target="cTVnr0bxFcRuHzFW3cgf-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1403" y="607" />
+              <mxPoint x="878" y="631" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="cTVnr0bxFcRuHzFW3cgf-23" value="via 4via6 route" style="curved=1;startArrow=none;endArrow=block;exitX=0.33;exitY=1;entryX=0.3;entryY=0;rounded=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="cTVnr0bxFcRuHzFW3cgf-12" target="cTVnr0bxFcRuHzFW3cgf-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1185" y="607" />
-              <mxPoint x="1185" y="729" />
+              <mxPoint x="660" y="631" />
+              <mxPoint x="660" y="753" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="cTVnr0bxFcRuHzFW3cgf-24" value="物理内网" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.7;entryY=0;rounded=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="cTVnr0bxFcRuHzFW3cgf-13" target="cTVnr0bxFcRuHzFW3cgf-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1403" y="729" />
+              <mxPoint x="878" y="753" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="cTVnr0bxFcRuHzFW3cgf-25" value="Tailscale加密隧道" style="curved=1;startArrow=none;endArrow=block;exitX=0.06;exitY=1;entryX=0.5;entryY=0;rounded=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="cTVnr0bxFcRuHzFW3cgf-8" target="cTVnr0bxFcRuHzFW3cgf-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="793" y="423" />
+              <mxPoint x="493" y="433" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="cTVnr0bxFcRuHzFW3cgf-26" value="Tailscale加密隧道" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.98;entryX=0.5;entryY=0;rounded=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="cTVnr0bxFcRuHzFW3cgf-8" target="cTVnr0bxFcRuHzFW3cgf-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1294" y="423" />
+              <mxPoint x="994" y="433" />
             </Array>
           </mxGeometry>
         </mxCell>
