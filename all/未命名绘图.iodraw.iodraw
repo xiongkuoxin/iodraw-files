@@ -26,7 +26,7 @@
           <mxGeometry x="250" y="359" width="194" height="49" as="geometry" />
         </mxCell>
         <mxCell id="cTVnr0bxFcRuHzFW3cgf-8" value="Tailscale客户端(100.64.0.1)" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="593" y="359" width="187" height="49" as="geometry" />
+          <mxGeometry x="480" y="359" width="187" height="49" as="geometry" />
         </mxCell>
         <mxCell id="cTVnr0bxFcRuHzFW3cgf-9" value="Tailscale客户端(100.64.0.2)" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="139" y="545" width="258" height="49" as="geometry" />
